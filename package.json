@@ -3,10 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@angular/common": "^7.2.8",
+    "@angular/compiler": "^7.2.8",
+    "@angular/core": "^7.2.8",
+    "@angular/platform-browser": "^7.2.8",
+    "@angular/platform-browser-dynamic": "^7.2.8",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8",
-    "single-spa-react": "^2.9.0"
+    "single-spa": "^4.1.1",
+    "single-spa-angular": "^2.1.0",
+    "single-spa-react": "^2.9.0",
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
